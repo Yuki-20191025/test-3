@@ -1,0 +1,35 @@
+header{
+    display: flex;
+}
+
+.box1 {
+    background: #573F2E;
+    width: 30%;
+    height: 240px;
+  }
+
+.box2{
+    background: #3E2D21;
+    width: 70%;
+    height: 240px;
+  }
+
+.container{
+    background-color: #FAEDED;
+    width: 100%;
+    height: 560px;
+  }
+
+.case1{
+  background-color: #6A4021;
+  height: 392px;
+  width: 70%;
+  margin-left: auto;
+}
+
+.case2{
+  background-color: #3E2D21;
+  height: 168px;
+  width: 70%;
+  margin-left: auto;
+}
